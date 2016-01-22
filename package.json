@@ -11,6 +11,7 @@
   "author": "Gautam Arora",
   "license": "ISC",
   "dependencies": {
+    "@gautamarora/sass-resolve": "^3.0.0",
     "1t": "^0.1.0",
     "backbone": "^1.2.3",
     "bootstrap-sass": "^3.3.6",
